@@ -1,0 +1,9 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(×öæ´8ì™ñÆÎ1
+G	java:S106"+Replace this use of System.out by a logger.(´Ü„—8í™ñÆÎ1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8î™ñÆÎ1
+`
+java:S1128"CRemove this unused import 'java.util.concurrent.ThreadLocalRandom'.(¨ÏÙî8î™ñÆÎ1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8î™ñÆÎ1
