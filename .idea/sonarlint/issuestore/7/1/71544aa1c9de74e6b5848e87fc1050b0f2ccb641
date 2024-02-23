@@ -1,0 +1,12 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "naveen" 3 times.(Î¡Ğ…üÿÿÿÿ8ˆ¶¹ÜÏ1
+Y
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(õÁÒ—8‰¶¹ÜÏ1
+W
+java:S1854"5Remove this useless assignment to local variable "b".(æ‘Ì–şÿÿÿÿ8«İ¹ÜÏ1
+H
+java:S1481"&Remove this unused "b" local variable.(æ‘Ì–şÿÿÿÿ8¬İ¹ÜÏ1
+B
+java:S2129" Remove this "String" constructor(·ûîÁúÿÿÿÿ8˜¶¹ÜÏ1
+G	java:S106	"+Replace this use of System.out by a logger.(õÁÒ—8š¶¹ÜÏ1

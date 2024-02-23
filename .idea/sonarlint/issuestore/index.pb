@@ -104,8 +104,6 @@ h
 8src/main/java/com/basictest/practise4/ReverseSubset.java,b\5\b5ebd08f99d9974dec571964e40137c32da3318a
 g
 7src/main/java/com/basictest/practise4/MergeAndSort.java,f\1\f105b013826b99f5c8bedffe6acc331dd4a127c3
-q
-Asrc/main/java/com/basictest/practise4/FirstAndFinalOccurance.java,f\1\f1cdd13966cd447b612848434865f7da0ae04caa
 r
 Bsrc/main/java/com/basictest/practise4/FirstAndFinalOccurrence.java,5\b\5b48c381eb0def8c6080c3819f9ed7070f4187e9
 i
@@ -128,3 +126,9 @@ i
 9src/main/java/com/basictest/practise4/SecondFrequent.java,c\6\c64a85bf43f6086af1834fbf942aacc9765b60f9
 j
 :src/main/java/com/basictest/practise4/ReverseSentence.java,0\4\044dc279df2233d2c6a171d1901aebef727bc240
+e
+5src/main/java/com/basictest/practise4/StringTest.java,7\1\71544aa1c9de74e6b5848e87fc1050b0f2ccb641
+h
+8src/main/java/com/basictest/practise4/InterfaceTest.java,d\f\df14f965888a0755a3052a4317b2d3e0960963bc
+g
+7src/main/java/com/basictest/practise4/FindSequence.java,e\d\ed45c462634ba5ec5f55e06c4e77b1e97d2a1dde
